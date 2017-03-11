@@ -1,3 +1,6 @@
+# Stratego
+A board game that you can play against other people online.
+
 ![stratego-1](https://cloud.githubusercontent.com/assets/19572229/23815242/926f729c-05e7-11e7-808f-46b03ac92274.jpg)
 
 ![stratego-3](https://cloud.githubusercontent.com/assets/19572229/23815250/a0698b26-05e7-11e7-84ee-9ecbbc598c18.jpg)
